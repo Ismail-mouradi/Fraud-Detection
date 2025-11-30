@@ -16,7 +16,8 @@ The goal is to build a complete fraud detection workflow including:
 ---
 
 ## 📂 Repository Structure
-```
+
+```text
 Fraud-Detection/
 │
 ├── notebooks/
@@ -29,7 +30,7 @@ Fraud-Detection/
 ├── .gitignore
 ├── README.md
 └── LICENSE
-```
+
 
 ---
 
