@@ -30,7 +30,7 @@ Fraud-Detection/
 ├── .gitignore
 ├── README.md
 └── LICENSE
-
+```
 
 ---
 
