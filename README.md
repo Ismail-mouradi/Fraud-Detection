@@ -1,7 +1,6 @@
 # 📌 Credit Card Fraud Detection  
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)]()  
 [![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)]()  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()  
 
 An end-to-end machine learning project for detecting fraudulent credit card transactions.  
 The goal is to build a complete fraud detection workflow including:
