@@ -1,1 +1,15 @@
+# Ignore datasets
+data/
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
 
