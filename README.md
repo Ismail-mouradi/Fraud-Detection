@@ -20,10 +20,10 @@ The goal is to build a complete fraud detection workflow including:
 Fraud-Detection/
 │
 ├── notebooks/
-│ └── 01_credit_card_fraud.ipynb
+│   └── 01_credit_card_fraud.ipynb
 │
 ├── src/
-│ └── .keep
+│   └── .keep
 │
 ├── requirements.txt
 ├── .gitignore
